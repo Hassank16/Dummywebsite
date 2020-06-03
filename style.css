@@ -1,0 +1,46 @@
+<div class="container row row-cols-1 row-cols-md-2">
+        <div class="col mb-4">
+            <div class="card">
+                <img src="https://images.theconversation.com/files/268455/original/file-20190409-2931-rzhl22.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+                    class="card-img-top" alt="Primary">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-4">
+            <div class="card">
+                <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/126307900/original/3366d764895d6d34766dcfedcd55bf984c3551f2/maths-tutor-for-elementary-kids.jpg"
+                    class="card-img-top" alt="Secondary">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-4">
+            <div class="card">
+                <img src="https://www.tutordoctor.com/images/blog/Power-of-One-on-One-Tutoring.jpg"
+                    class="card-img-top" alt="Intermediate">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-4">
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/proxy/dbdcvsE0tEfI7bQhy3XMXrBMo_REZSrGMupGzO6Wn13oEwSKG6U-oGwrnUgdWAIwWMrvLeEOT0ZkUIqtt3MK4PyCDp9xUlb3wCdrwVrc_yLDV0gE3-5Ri_AE8TDCFXcHeEWNvg"
+                    class="card-img-top" alt="Cambridge">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.</p>
+                </div>
+            </div>
+        </div>
+    </div>
